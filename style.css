@@ -59,8 +59,8 @@ button {
 }
 
 .container {
-    border-left: 48px solid black;
-    border-right: 48px solid black;
+    border-left: 0px solid black;
+    border-right: 0px solid black;
     background-color: white;
 }
 
